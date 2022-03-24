@@ -1,0 +1,1 @@
+print ("Nama saya Selly Sidauruk")
